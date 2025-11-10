@@ -165,7 +165,7 @@ This project supports:
 ## Author & Contact
 
 **Karan Gadhave**  
-📧 Email: karangadhave@gmail.com  
+📧 Email: karangadhave28@gmail.com  
 💻 Field: Computer Science & Data Analysis (CSMS Student)  
 
 🔗 [GitHub](https://github.com/karangadhave) | [LinkedIn](https://linkedin.com/in/karan-gadhave)
