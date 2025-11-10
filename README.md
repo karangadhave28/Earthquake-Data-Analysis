@@ -168,7 +168,7 @@ This project supports:
 📧 Email: karangadhave28@gmail.com  
 💻 Field: Computer Science & Data Analysis (CSMS Student)  
 
-🔗 [GitHub](https://github.com/karangadhave) | [LinkedIn](https://linkedin.com/in/karan-gadhave)
+🔗 [GitHub](https://github.com/karangadhave28/Earthquake-Data-Analysis) | [LinkedIn](https://www.linkedin.com/in/karan-gadhave-860299378/)
 
 ---
 
