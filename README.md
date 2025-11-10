@@ -15,7 +15,6 @@ _Exploratory Data Analysis (EDA) of global earthquakes to understand seismic tre
 - [Key Findings](#key-findings)
 - [Insights & Interpretation](#insights--interpretation)
 - [Applications & Impact](#business-impact)
-- [How to Run](#how-to-run)
 - [Author & Contact](#author--contact)
 
 ---
@@ -142,23 +141,6 @@ This project supports:
 - **Risk mapping** for vulnerable coastal zones.  
 - **Academic research** in geophysics and seismic behavior.  
 - **Data-driven decision-making** in disaster management agencies.
-
----
-
-## How to Run
-
-1. **Clone this repository:**
-```bash
-   git clone https://github.com/karangadhave/earthquake-data-analysis.git
-```
-
-2. **Run the Jupyter Notebook:**
-```bash
-   notebooks/earthquake_eda.ipynb
-```
-
-3. **View the PDF Report:**
-   Open `Earthquake_Analysis_Report.pdf` for a summary of insights.
 
 ---
 
