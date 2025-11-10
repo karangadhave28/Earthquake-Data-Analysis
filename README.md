@@ -111,8 +111,6 @@ The EDA includes multiple visual perspectives of the data:
 - **📦 Boxplots:** Comparison between tsunami and non-tsunami events  
 - **🔥 Density Maps:** Hexbin & KDE heatmaps for tsunami clustering  
 
-![Earthquake Geographic Distribution](images/geographic_distribution.png)
-
 ---
 
 ## Key Findings
