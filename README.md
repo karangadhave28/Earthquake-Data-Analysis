@@ -152,13 +152,6 @@ This project supports:
 
 ---
 
-## 📜 License
-
-This project is open-source under the **MIT License**.  
-Feel free to use, modify, and share with proper credit.
-
----
-
 ### 📎 PDF Report
 A detailed report of this analysis is available in:  
 [Earthquake_Analysis_Report.pdf](https://github.com/karangadhave28/Earthquake-Data-Analysis/blob/main/Earthquake_Analysis_Report.pdf)
