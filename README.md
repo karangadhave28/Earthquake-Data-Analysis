@@ -43,7 +43,7 @@ The main goal is to:
 - **File Name:** `dc77e95e-ef74-4936-811d-e7d3bc2cd504.csv`  
 - **Records:** 782  
 - **Columns:** 13  
-- **Source:** USGS (United States Geological Survey) dataset  
+- **Source:** kaggle  
 
 | Column | Description |
 |--------|--------------|
@@ -59,10 +59,9 @@ The main goal is to:
 
 ## Tools & Technologies
 
-- **Python 3.x** — Data processing & visualization  
+- **Python** — Data processing & visualization  
 - **Pandas** — Data manipulation and cleaning  
-- **Matplotlib & Seaborn** — Visual analytics and plotting  
-- **FPDF** — Automated PDF report generation  
+- **Matplotlib & Seaborn** — Visual analytics and plotting   
 - **GitHub** — Version control and sharing  
 
 ---
@@ -146,7 +145,6 @@ This project supports:
 
 **Karan Gadhave**  
 📧 Email: karangadhave28@gmail.com  
-💻 Field: Computer Science & Data Analysis (CSMS Student)  
 
 🔗 [GitHub](https://github.com/karangadhave28/Earthquake-Data-Analysis) | [LinkedIn](https://www.linkedin.com/in/karan-gadhave-860299378/)
 
